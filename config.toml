@@ -1,19 +1,18 @@
 baseURL = "https://aziz-adeboye.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Hugo Apéro"
-author = "Alison Hill"
-copyright = "" # set to override the auto generated copyright using org info and now year
+title = "Azeez Adeboye"
+author = "Azeez Adeboye"
+copyright = "" 
 googleAnalytics = ""
-#disqusShortname = "" # see params.comments to use utterances or giscus instead of Disqus
+disqusShortname = "" 
 metaDataFormat = "yaml"
-footnoteReturnLinkContents = "&#8617;" # ↩
-# set deliberately low for testing choose your preffered number based on the blog layout you've chosen
+footnoteReturnLinkContents = "&#8617;"
 paginate = 5
 preserveTaxonomyNames = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 enableEmoji = true
-
+pygmentsCodefencesGuessSyntax: true
 [markup]
   defaultMarkdownHandler = "goldmark"
   [markup.goldmark.renderer]
