@@ -2,8 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Dr. Azeez Adeboye research interests include applications of statistics and machine learning to healthcare and medicine, communicating data through visualisation, and understanding how we teach statistical concepts. 
-Research interests Applied statistics, Biostatistics, Mathematical models, Spatial analysis, Bayesian Methods, longitudinal data/repeated measures, Mixed models/random-effects models/multilevel models, Missing data/dropout/survival Analysis, Models for multivariate repeated measures etc
+description: Dr. Azeez Adeboye research interests include applications of statistics and machine learning to healthcare and medicine, communicating data through visualisation, and understanding how we teach statistical concepts. Research interests Applied statistics, Biostatistics, Mathematical models, Spatial analysis, Bayesian Methods, longitudinal data/repeated measures, Mixed models/random-effects models/multilevel models, Missing data/dropout/survival Analysis, Models for multivariate repeated measures etc
 image_left: true
 images:
 - img/revoir.jpg
