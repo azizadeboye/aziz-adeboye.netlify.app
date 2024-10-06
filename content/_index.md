@@ -9,7 +9,7 @@ images:
 show_action_link: true
 show_social_links: true
 subtitle: Biostatistician and Data Scientist
-text_align_center: true
+text_align_justify_center: true
 title: Azeez Adeboye
 type: home
 ---
