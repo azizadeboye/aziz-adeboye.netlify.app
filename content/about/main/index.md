@@ -12,7 +12,7 @@ This involves applying statistical modeling and data analysis, using advanced te
 
 Beyond the clinical realm, my data science skills enable me to harness machine learning and predictive analytics, transforming raw data into actionable insights. I constantly exploring innovative ways to improve data collection and management processes, enhancing the overall quality of clinical research.
 
-With a keen eye for detail and a passion for improving outcomes in translating data into evidence-based practices that can make a significant impact on public health. 
+With a keen eye for detail and a passion for improving outcomes in translating data into evidence-based practices that can make a significant impact on public health.
 
 show_outro: true
 outro: |
